@@ -24,8 +24,8 @@
 
     /* Font Stacks */
     /* add the two font stacks here */
-	--heading-font: "Seymour One", sans-serif;
-    --body-font: "Lato", sans-serif;
+	--heading-font: "Seymour One", "Arial", sans-serif;
+    --body-font: "Lato", "Arial", sans-serif;
 }
 
 body{
